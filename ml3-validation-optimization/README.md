@@ -134,25 +134,7 @@
 - **Random Search:** случайный выбор 48 комбинаций
 - **Optuna:** байесовская оптимизация с TPE sampler
 
-## 📁 Структура проекта
-ml3-validation-optimization/
-├── README.md # Описание проекта
-├── my_project.ipynb # Jupyter Notebook с кодом
-├── requirements.txt # Зависимости
-├── data/
-│ ├── train.json # Обучающие данные (Kaggle)
-│ ├── test.json # Тестовые данные
-│ ├── result_MAE.csv # Метрики MAE
-│ ├── result_RMSE.csv # Метрики RMSE
-│ ├── feature_list.pkl # Список признаков
-│ ├── scalers.pkl # Сохранённые скалеры
-│ └── normalized_data.pkl # Нормализованные данные
-├── images/ # Визуализации
-│ ├── cv_comparison.png
-│ ├── feature_importance.png
-│ └── hyperopt_comparison.png
-└── reports/
-└── report.json # Итоговые метрики (JSON)
+
 
 ## 📈 Визуализации
 
