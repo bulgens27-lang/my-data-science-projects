@@ -35,7 +35,18 @@ Python, pandas, scikit-learn, визуализация данных, прогн�
 [📖 Подробнее →](ml2-rental-price-prediction/README.md)
 
 ---
-### 3. 🔜 Следующий проект
+
+### 3. 📊 Методы валидации и оптимизации моделей
+
+**Описание:** Реализация и сравнение методов кросс-валидации, отбора признаков и оптимизации гиперпараметров.
+
+**Стек:** Python, numpy, pandas, scikit-learn, Optuna, SHAP, matplotlib, seaborn
+
+[📖 Подробнее →](ml3-validation-optimization/README.md)
+
+---
+
+### 4. 🔜 Следующий проект
 
 *В разработке...*
 
