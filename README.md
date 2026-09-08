@@ -1,2 +1,2 @@
-# my-data-science-projects
-Проекты по data-science
+Портфолио проектов по Data Science и Machine Learning. 
+Python, pandas, scikit-learn, визуализация данных, прогнозирование.
