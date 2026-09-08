@@ -57,6 +57,18 @@ Python, pandas, scikit-learn, визуализация данных, прогн�
 [📖 Подробнее →](ml-4-auction-risk-classification/README.md)
 
 ---
+## 5. ML-5 🌳 Деревья решений и ансамблевые методы
+
+**Описание:** Глубокое погружение в деревья решений и ансамбли. Реализованы с нуля Decision Tree, Random Forest, GBDT и ExtraTrees. Проведено сравнение с XGBoost, LightGBM и CatBoost.
+
+**Результат:** CatBoost показал лучший результат (Gini = 0.4961 на валидации). Кастомные реализации подтвердили математическую корректность алгоритмов.
+
+**Стек:** Python, numpy, pandas, scikit-learn, XGBoost, LightGBM, CatBoost
+
+[📖 Подробнее →](ml-5-decision-trees-ensembles/README.md)
+
+---
+---
 
 ## 📫 Контакты
 
