@@ -132,3 +132,4 @@ https://images/sgd_convergence.png
 📫 Контакты
 
 Telegram: [@Bulgens]
+Email: bulgens27@gmail.com
